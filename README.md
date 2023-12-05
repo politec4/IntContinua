@@ -1,0 +1,2 @@
+# IntContinua
+Aplicación de inventario
